@@ -4,7 +4,7 @@
 <br>
 <h2>Esse foi um projeto bacana que aprendi no <a href= "https//rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
-<h2>Esse projeto foi criado com o intuito de  aprendermos a criar um array, utilizando map, redulce,filter </h2> 
+<h2>Esse projeto foi criado com o intuito de  aprendermos a criar um array, utilizando foreach, map, redulce,filter </h2> 
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
